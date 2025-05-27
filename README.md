@@ -104,7 +104,6 @@ Edit `config.py` to customize:
 
 ## Technical Architecture
 
-```mermaid
 graph TD
     A[Discord Bot] --> B[AI Chat Module]
     A --> C[Economy System]
@@ -122,7 +121,7 @@ graph TD
     
     G --> J[Model Training]
     G --> K[Response Generation]
-```
+
 
 ## Dependencies
 
