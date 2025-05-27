@@ -105,6 +105,7 @@ Edit `config.py` to customize:
 ## Technical Architecture
 
 graph TD
+    
     A[Discord Bot] --> B[AI Chat Module]
     A --> C[Economy System]
     A --> D[Room Management]
